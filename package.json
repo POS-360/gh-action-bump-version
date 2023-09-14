@@ -1,6 +1,6 @@
 {
   "name": "gh-action-bump-version",
-  "version": "7.1.2",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/phips28/gh-action-bump-version.git"
@@ -19,11 +19,11 @@
     "test": "jest"
   },
   "dependencies": {
-    "actions-toolkit": "^2.2.0",
-    "yargs": "^15.3.1"
+    "actions-toolkit": "^6.0.1",
+    "yargs": "^17.7.2"
   },
   "devDependencies": {
-    "jest": "^25.2.7",
-    "standard": "^14.3.3"
+    "jest": "^29.7.0",
+    "standard": "^17.1.0"
   }
 }
