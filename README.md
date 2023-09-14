@@ -2,7 +2,7 @@
 
 GitHub Action for automated npm version bump.
 
-This action based on 'phips28/gh-action-bump-version' with small changes.
+This action based on 'maks-stupak/gh-action-bump-version' with small changes.
 
 This Action bumps the version in package.json and push it back to the repo. 
 It is meant to be used on every successful merge to master but 
